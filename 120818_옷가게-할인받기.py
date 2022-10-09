@@ -7,4 +7,4 @@ def solution(price):
         answer = price * 0.95
     else :
         answer = price
-    return answer
+    return int(answer)
